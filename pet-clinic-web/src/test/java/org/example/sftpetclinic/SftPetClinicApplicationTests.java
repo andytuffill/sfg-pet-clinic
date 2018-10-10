@@ -1,4 +1,4 @@
-package com.example.sftpetclinic;
+package org.example.sftpetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
