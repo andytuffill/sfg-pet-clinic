@@ -1,6 +1,5 @@
 package org.example.sfgpetclinic.services.map;
 
-import com.sun.xml.internal.bind.v2.model.core.ID;
 import org.example.sfgpetclinic.model.Pet;
 import org.example.sfgpetclinic.services.CrudService;
 
